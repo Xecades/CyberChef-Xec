@@ -4,6 +4,12 @@
         "ops": []
     },
     {
+        "name": "Xecades Extensions",
+        "ops": [
+            "Fetch"
+        ]
+    },
+    {
         "name": "Data format",
         "ops": [
             "To Hexdump",
